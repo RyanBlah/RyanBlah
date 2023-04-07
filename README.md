@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 😸
 
-<!--
-**RyanBlah/RyanBlah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Ryan Blahum do Nascimento**
 
-Here are some ideas to get you started:
+- Tenho 16 anos
+- Sou estudante e estou fazendo o curso da Alura
+- To usando esse espaço para estudo, mas terei um espaço pessoal para projetos futuramente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### English
+
+My name is **Ryan Blahum do Nascimento**
+- I'm 16 years old
+- I'm a student and I'm taking Alura's course
+- I'm using this space for study, but I'll have a personal space for projects in the future.
+
+![](https://i.pinimg.com/originals/13/81/b1/1381b1b3c60dc7eb568cc2df0f78882a.gif)
